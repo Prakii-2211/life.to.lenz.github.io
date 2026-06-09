@@ -1,0 +1,1 @@
+console.log("This is Blog site for PhotoGraphy")
